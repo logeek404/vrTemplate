@@ -1,0 +1,4 @@
+repository "vr template@logeek404@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
